@@ -1,8 +1,8 @@
 # Xiaozhi AI
 ##  Preparation Before Use  
-Step 1. Switch the ICRobot internal firmware to Xiaozhi AI, the method can refer to the [Mode Switching](https://icreate-help-center.yuque.com/dxifg8/mddwgb/fn2d0706ggrnqizu)。
+Step 1. Switch the ICRobot internal firmware to Xiaozhi AI, the method can refer to the [Mode Switching](https://aike-robot.readthedocs.io/en/latest/docs/AIKE/05ModeSwitching.html)
 
-**Step 2:** Complete the Xiaozhi AI configuration for ICRobot. For detailed configuration instructions, refer to [Xiaozhi AI Setup Guide](https://icreate-help-center.yuque.com/dxifg8/mddwgb/npqvx527t7ghwhfe)。
+**Step 2:** Complete the Xiaozhi AI configuration for ICRobot. For detailed configuration instructions, refer to [Xiaozhi AI Setup Guide](https://aike-robot.readthedocs.io/en/latest/docs/AIKE/06XiaozhiAISetupGuide.html)
 
  The Xiaozhi AI function can be used only after all of the above steps have been completed.  
 
