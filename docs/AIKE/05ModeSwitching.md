@@ -17,7 +17,7 @@
 | --- | --- |
 | **Step 1:** Power on the device. | **Step 2:** Press and hold the **B** button for 3 seconds. |
 | ![](IMG/M3.gif) |  |
-| **Step 3:** Press the middle button. If the device announces **“Please connect to a network”** and the display shows the eye status, the mode switch is successful. |  |
+| **Step 3:** Press the middle button. If the device announces **“Please connect to a network”** <br/>and the display shows the eye status, the mode switch is successful. |  |
 
 
 ## Xiaozhi AI → RFID Card Reading
@@ -28,9 +28,9 @@
 ###  Operation Demonstration  
 | ![](IMG/Q6.gif) | ![](IMG/M5.gif) |
 | --- | --- |
-| **Step 1: **Power on the machine with the **Xiaozhi Version** firmware installed. | **Step 2: Use the A and B buttons to switch to the Code interface and select it.** |
+| **Step 1:** Power on the machine with the **Xiaozhi Version** firmware installed. | **Step 2:** Use the A and B buttons to switch to the Code interface and select it. |
 | ![](IMG/M6.gif) |  |
-| **Step 3: **The display will show the switching progress. When the machine announces **“ Hi, I’m Aike ! I’m ready to learn and have fun with you!  ”**, the switch is complete. | |
+| **Step 3:** The display will show the switching progress. When the machine announces<br/> **“ Hi, I’m Aike ! I’m ready to learn and have fun with you!  ”**, the switch is complete. | |
 
 
 
