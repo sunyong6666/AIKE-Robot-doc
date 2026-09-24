@@ -1,7 +1,6 @@
 # RFID Card Guide
 ## Action
-| ![](IMG/I2.png) | ![](IMG/I3.png) | 
-![](IMG/I4.png) | ![](IMG/I5.png) |
+| ![](IMG/I2.png) | ![](IMG/I3.png) | ![](IMG/I4.png) | ![](IMG/I5.png) |
 | :---: | :---: | :---: | :---: |
 |  Move Forward One Step（14CM） |  Move Backward One Step（14CM） |   Turn Right 90° |   Turn Left 90° |
 | ![](IMG/I8.png) | ![](IMG/I9.png) | ![](IMG/I10.png) | ![](IMG/I11.png) |
@@ -21,7 +20,7 @@
 ## Expressions & Action
 | ![](IMG/I20.png) | ![](IMG/I21.png) | ![](IMG/I22.png) | ![](IMG/I23.png) |
 | :---: | :---: | :---: | :---: |
-| Dance | Horn |  Happy Expression   | Calm Expression |
+| Dance&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Horn |  Happy Expression   | Calm Expression |
 | ![](IMG/I24.png) | ![](IMG/I25.png) | ![](IMG/I26.png) | ![](IMG/I27.png) |
 | Sad Expression | Angry Expression | Scared Expression | Love Expression |
 
