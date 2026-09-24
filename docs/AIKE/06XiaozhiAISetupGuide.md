@@ -1,6 +1,6 @@
 # Xiaozhi AI Setup Guide
 ## Instructions
-Step 1. Switch the ICRobot internal firmware to Xiaozhi AI, the method can refer to[Mode Switching](https://icreate-help-center.yuque.com/dxifg8/mddwgb/fn2d0706ggrnqizu)。
+Step 1. Switch the ICRobot internal firmware to Xiaozhi AI, the method can refer to[Mode Switching](https://aike-robot.readthedocs.io/en/latest/docs/AIKE/05ModeSwitching.html)
 
 Step 2. Connect ICRobot to configure the network operation, details can refer to the contents of this document.
 
