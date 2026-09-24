@@ -37,7 +37,7 @@
 1. Insert one end of the Grove cable into the Grove port on the gripper (see position “①” above).
 2. Connect the other end of the Grove cable to any Grove port on the ICRobot. In this example, use Port 2 (see position “②” above).
 
-** Connection Result  **
+**Connection Result**
 
 ![](IMG/R6.png)
 
