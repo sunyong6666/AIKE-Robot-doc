@@ -2,7 +2,7 @@
 ## Action
 | ![](IMG/I2.png) | ![](IMG/I3.png) | ![](IMG/I4.png) | ![](IMG/I5.png) |
 | :---: | :---: | :---: | :---: |
-|  Move Forward One Step<br/>（14CM） |  Move Backward One Step<br/>（14CM） |   Turn Right 90° &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|   Turn Left 90° |
+|  Move Forward One Step<br/>（14CM） |  Move Backward One Step<br/>（14CM） |   Turn Right 90° &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Turn Left 90° |
 | ![](IMG/I8.png) | ![](IMG/I9.png) | ![](IMG/I10.png) | ![](IMG/I11.png) |
 |  Turn Right 60° |  Turn Right 30° | Turn Left 60° | Turn Left 30° |
 | ![](IMG/I12.png) | ![](IMG/I7.png) | ![](IMG/I6.png) | ![](IMG/I13.png) |
