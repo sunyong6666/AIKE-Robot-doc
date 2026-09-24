@@ -6,7 +6,7 @@
 | ![](IMG/I8.png) | ![](IMG/I9.png) | ![](IMG/I10.png) | ![](IMG/I11.png) |
 |  Turn Right 60° |  Turn Right 30° | Turn Left 60° | Turn Left 30° |
 | ![](IMG/I12.png) | ![](IMG/I7.png) | ![](IMG/I6.png) | ![](IMG/I13.png) |
-|  Rotate 180° |  Open the Gripper |  Close the Gripper | Start Line Following (Continue line following until a completely black area is detected) |
+|  Rotate 180° |  Open the Gripper |  Close the Gripper | Start Line Following <br/>(Continue line following until<br/> a completely black area is detected) |
 
 
 ## Control
