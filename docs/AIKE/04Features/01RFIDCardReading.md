@@ -1,12 +1,12 @@
 # RFID Card Reading
 During RFID card reading, Aike reads each card and executes the corresponding command based on the card content.
 
-For details about the card content, refer to the [RFID Card Guide](https://icreate-help-center.yuque.com/dxifg8/mddwgb/sn93nti05gimqo2b). The actions and effects performed by the machine vary depending on the individual card or group of instruction cards being read. The usage logic also differs between card types. Please read this document carefully for detailed information.
+For details about the card content, refer to the [RFID Card Guide](https://aike-robot.readthedocs.io/en/latest/docs/AIKE/07RFIDCardGuide.html). The actions and effects performed by the machine vary depending on the individual card or group of instruction cards being read. The usage logic also differs between card types. Please read this document carefully for detailed information.
 
 
 
 ##  Direct Reading Mode  
- **Logic Description:  **
+ **Logic Description:**
 
 + When Aike reads **Action Cards (Blue)**, **Sound, Dance, and Expression Cards (Purple)**, or **Function Cards (Black)**, it directly executes the corresponding commands based on the card content.
 
@@ -31,7 +31,7 @@ For details about the card content, refer to the [RFID Card Guide](https://icrea
 | ![](IMG/RC18.png) | The tail light turns **light blue**. The machine announces **“Sad.”** The corresponding icon is displayed on the screen. |  |
 | ![](IMG/RC19.png) | The tail light turns **red**. The machine announces **“Angry.”** The corresponding icon is displayed on the screen. |  |
 | ![](IMG/RC20.png) | The tail light turns **gray**. The machine announces **“Scared.”** The corresponding icon is displayed on the screen. |  |
-| ![](IMG/RC21.png) | + The tail light turns **pink**. The machine announces **“Love.”** The corresponding icon is displayed on the screen. |  |
+| ![](IMG/RC21.png) | The tail light turns **pink**. The machine announces **“Love.”** The corresponding icon is displayed on the screen. |  |
 | ![](IMG/RC22.png) | The machine announces **“Let's talk in English. ”** The corresponding icon is displayed on the screen, and the machine continues to provide voice prompts in English. |  |
 | ![](IMG/RC23.png) | The machine announces **“ 开始使用中文 ”** The corresponding icon is displayed on the screen, and the machine continues to provide voice prompts in Chinese. |  |
 | ![](IMG/RC24.png) | The machine announces **“  Let's check the battery . ”** The current battery level percentage is displayed on the screen.<br/> |  |
@@ -51,7 +51,7 @@ For details about the card content, refer to the [RFID Card Guide](https://icrea
 
 |  Read Content   |  Effect Description   |  Description   |
 | :---: | --- | --- |
-| ![](IMG/RC31.png) | The machine announces: **“Start reading Function 1, XX, XX, Function 1 reading complete.”**<br/>The machine moves forward one step while announcing each card, and the corresponding icon is displayed on the screen. | + The programmed **Function 1** or **Function 2** must be placed within a loop or program to be executed.<br/>+ After the function content has been fully read, **Function 1** or **Function 2** can be executed directly. For details, refer to **Direct Reading Mode**. |
+| ![](IMG/RC31.png) | The machine announces: **“Start reading Function 1, XX, XX, Function 1 reading complete.”**<br/>The machine moves forward one step while announcing each card, and the corresponding icon is displayed on the screen. | + The programmed **Function 1** or **Function 2** must be placed within a loop or program to be executed.<br/> + After the function content has been fully read, **Function 1** or **Function 2** can be executed directly. For details, refer to **Direct Reading Mode**. |
 
 
 ###  Program Programming  
@@ -61,7 +61,7 @@ For details about the card content, refer to the [RFID Card Guide](https://icrea
 
 |  Read Content   |  Effect Description   |  Description   |
 | :---: | --- | --- |
-| ![](IMG/RC32.png) | The machine announces: **“ Let’s get started!  XXXX reading complete.”**<br/>The machine moves forward one step while announcing each card, and the corresponding icon is displayed on the screen. | + **Place the “Start” card first:** The robot begins recording the program only after recognizing the **“Start”** card.<br/>+ **Read the instruction cards in order:** The robot reads and stores your instructions one by one.<br/>+ **Place the “End” card last:** After recognizing the **“End”** card, the robot completes program recording.<br/>+ **Incomplete Code:** If no card is detected after the **“Start”** card, the robot announces **“Incomplete Code.”** The corresponding icon is displayed on the screen, and the robot moves from side to side.<br/>+ **Execute the program:** After the program has been recorded, press the middle button to execute it.<br/>+ **Note:** Make sure the cards are placed in the correct order. Otherwise, the program may be recorded incorrectly. |
+| ![](IMG/RC32.png) | The machine announces: **“ Let’s get started!  XXXX reading complete.”**<br/>The machine moves forward one step while announcing each card, and the corresponding icon is displayed on the screen. | + **Place the “Start” card first:** The robot begins recording the program only after recognizing the **“Start”** card.<br/> + **Read the instruction cards in order:** The robot reads and stores your instructions one by one.<br/> + **Place the “End” card last:** After recognizing the **“End”** card, the robot completes program recording.<br/> + **Incomplete Code:** If no card is detected after the **“Start”** card, the robot announces **“Incomplete Code.”** The corresponding icon is displayed on the screen, and the robot moves from side to side.<br/> + **Execute the program:** After the program has been recorded, press the middle button to execute it.<br/> + **Note:** Make sure the cards are placed in the correct order. Otherwise, the program may be recorded incorrectly. |
 
 
 ###  Loop Programming  
@@ -71,6 +71,6 @@ For details about the card content, refer to the [RFID Card Guide](https://icrea
 
 |  Read Content   |  Effect Description   |  Description   |
 | :---: | --- | --- |
-| ![](IMG/RC33.png) | The machine announces: **“XXXX, loop, XXXX,  loop twice（or loop  three times  or  four times ）,XXXX.”**<br/>The machine moves forward one step while announcing each card, and the corresponding icon is displayed on the screen. | + Loop programming content must be placed within **Function Programming** or **Program Programming** to be executed.<br/>+ **Blue, Purple, Pink (Function 1 and Function 2), and Orange Cards** can be placed between the Loop Start and Loop End cards.<br/>+ Placing an **Orange Card** inside another loop enables **nested loops**. |
+| ![](IMG/RC33.png) | The machine announces: **“XXXX, loop, XXXX,  loop twice（or loop  three times  or  four times ）,XXXX.”**<br/>The machine moves forward one step while announcing each card, and the corresponding icon is displayed on the screen. | + Loop programming content must be placed within **Function Programming** or **Program Programming** to be executed.<br/> + **Blue, Purple, Pink (Function 1 and Function 2), and Orange Cards** can be placed between the Loop Start and Loop End cards.<br/> + Placing an **Orange Card** inside another loop enables **nested loops**. |
 
 
