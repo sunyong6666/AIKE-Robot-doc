@@ -44,7 +44,7 @@ The product is suitable for use in kindergartens, early education institutions, 
 | ![](IMG/I11.png) | 1 |
 | ![](IMG/I12.png) | 1 |
 | ![](IMG/I13.png) | 1 |
-| [](IMG/I14.png) | 1 |
+| ![](IMG/I14.png) | 1 |
 | ![](IMG/I15.png) | 1 |
 
 
