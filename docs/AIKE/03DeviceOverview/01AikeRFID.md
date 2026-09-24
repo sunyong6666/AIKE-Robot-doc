@@ -17,7 +17,7 @@
 | ⑦ | Crawler Wheels | Drive the robot forward, backward, and for turning. |
 | ⑧ | Microphone | Captures voice and ambient sounds for voice interaction. |
 | ⑨ | USB-C Port | Used for device charging, data transmission, and program updates. |
-| ⑩ | Programmable Taillights | Control the light color and display effects through programming. |
+| ⑩ | Taillight | Used to display the battery level and status indicators. |
 | ⑪ | Button Area (A Button / Power Button / B Button) | Used for powering the device on/off, switching modes, adjusting the volume, and executing code. |
 
 
